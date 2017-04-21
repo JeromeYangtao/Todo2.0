@@ -1,0 +1,37 @@
+{
+  "name": "webpage-first-demo",
+  "version": "1.0.1",
+  "description": "learn how to use webpack",
+  "main": "app.js",
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "leancloud-storage": "^2.1.4",
+    "vue": "^2.1.8",
+    "webpack": "^1.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeromeYangtao/hello-Vue.git"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.0",
+    "node-sass": "^4.5.2",
+    "style-loader": "^0.16.1",
+    "webpack": "^1.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "yang tao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeromeYangtao/hello-Vue/issues"
+  },
+  "homepage": "https://github.com/JeromeYangtao/hello-Vue#readme"
+}
